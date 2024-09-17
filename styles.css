@@ -96,6 +96,13 @@ h1 {
     flex-wrap: wrap;
 }
 
+.contactHd{
+    text-align: center;
+    width: 100px;
+    margin: 10px auto 5px auto;
+    border-bottom: 2px solid black;
+}
+
 .hero-images img {
     width: 45%;
     border-radius: 10px;
